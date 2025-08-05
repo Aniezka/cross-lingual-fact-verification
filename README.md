@@ -12,10 +12,6 @@ This repository contains the analysis results and supplementary materials for ou
 - **Official Language Support**: Languages officially supported by models (e.g., Indonesian and Polish for Qwen 2.5) often outperform traditionally high-resource languages like German and Spanish
 - **Instruction Following Failures**: Systematic failures in producing requested English labels, particularly affecting non-Latin script languages
 
-## 🎯 Results Summary
-
-!
-
 ## 📁 Repository Contents
 
 ```
@@ -56,6 +52,9 @@ This repository contains the analysis results and supplementary materials for ou
 - **Moderately-represented**: Portuguese, Italian, Dutch, Polish, Turkish, Persian, Hindi, Russian, Serbian
 - **Under-represented**: Indonesian, Romanian, Georgian, Tamil, Bengali, Punjabi, Marathi, Albanian, Azerbaijani, Gujarati, Norwegian, Sinhala
 
+## 🎯 Results Summary
+
+!
 
 ## 📋 Citation
 
