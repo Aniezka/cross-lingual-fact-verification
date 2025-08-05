@@ -54,7 +54,9 @@ This repository contains the analysis results and supplementary materials for ou
 
 ## 🎯 Results Summary
 
-!
+A comparative performance of Mistral Nemo, Llama 3.1, and Qwen 2.5 models on test and zero-shot subsets, measured by macro-F1 scores in LoRA finetuning and few-shot prompting settings.
+
+![](model_performance/llms_performance.png)
 
 ## 📋 Citation
 
