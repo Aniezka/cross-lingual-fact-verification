@@ -1,5 +1,13 @@
 In this folder, we present label distribution biases on test, out-of-domain, and zero-shot subsets from the X-Fact dataset for the **LLaMA 3.1**, **Mistral**, **NeMo**, and **Qwen 2.5** models.
 
+Here are the results for Qwen 2.5 model:
+
+![Test Subset Results](label_bias_test_qwen.png)
+
+![Out-of-domain Subset Results](label_bias_ood_qwen.png)
+
+![Zero-shot Subset Results](label_bias_zeroshot_qwen.png)
+
 ## Text Processing and Label Extraction Methodology
 
 ### Text Normalization Procedures
