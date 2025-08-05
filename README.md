@@ -32,7 +32,7 @@ This repository contains the analysis results and supplementary materials for ou
 - **Claims**: 31,189 total claims
 - **Categories**: 7 fine-grained veracity labels
   - `true`, `mostly_true`, `partly_true`, `mostly_false`, `false`, `complicated`, `other`
-- **Evaluation splits**: In-domain, out-of-domain, zero-shot cross-lingual
+- **Evaluation splits**: In-domain (test), out-of-domain, zero-shot cross-lingual
 
 ### Approaches
 
