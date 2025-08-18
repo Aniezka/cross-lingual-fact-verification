@@ -33,6 +33,10 @@ This repository contains the analysis results and supplementary materials for ou
 - **Categories**: 7 fine-grained veracity labels
   - `true`, `mostly_true`, `partly_true`, `mostly_false`, `false`, `complicated`, `other`
 - **Evaluation splits**: In-domain (test), out-of-domain, zero-shot cross-lingual
+  
+See the training data distribution across languages and veracity labels below:
+
+![Training Data Distribution](data_heatmap/train_set.png)
 
 ### Approaches
 
